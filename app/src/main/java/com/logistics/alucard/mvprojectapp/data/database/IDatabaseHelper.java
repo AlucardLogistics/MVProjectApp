@@ -1,6 +1,6 @@
 package com.logistics.alucard.mvprojectapp.data.database;
 
-import com.logistics.alucard.mvprojectapp.data.IManagerData;
+import com.logistics.alucard.mvprojectapp.extra.IManagerData;
 
 public interface IDatabaseHelper {
 
